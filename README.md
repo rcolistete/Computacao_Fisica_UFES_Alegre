@@ -8,6 +8,8 @@
 
 CCENS (Centro de Ciências Exatas, Naturais e da Saúde) - [UFES Alegre](http://alegre.ufes.br/)
 
+![BBC micro:bit v2](https://cdn.sanity.io/images/ajwvhvgo/production/4de361b622ac9bf5e8b9c3109a3935dd47b96167-1490x609.png)
+
 ## Ementa
 
 Programação de microcontroladores e/ou microcomputadores de placa única. Formas de interfaceamento de dados. Estudo de sensores e atuadores. Uso combinado de microcontroladores e/ou microcomputadores de placa única com sensores e atuadores para interagir com o mundo físico. Projeto de computação física aplicado à Física.
@@ -35,8 +37,8 @@ Sem uso de papel, com todas as aulas práticas e interativas em laboratório, us
 
 Para trabalhos fora de aula é fornecido hardware diverso, no Laboratório 5 de Física : placas com microcontroladores MicroPython (BBC Micro:bit, ESP32, etc), sensores (mais de 10 tipos), atuadores (relés, motores, etc), etc.
 
-Fora da aula o aluno acompanha a disciplina via o ambiente Google Classroom da disciplina e o repositório público :
-https://github.com/rcolistete/Computacao_Fisica_UFES_Alegre
+Fora da aula o aluno acompanha a disciplina via o ambiente Google Classroom da disciplina e o repositório público :  
+https://github.com/rcolistete/Computacao_Fisica_UFES_Alegre  
 onde são publicados :
 
 - instruções de como acompanhar as aulas, em termos de horários, links, etc;

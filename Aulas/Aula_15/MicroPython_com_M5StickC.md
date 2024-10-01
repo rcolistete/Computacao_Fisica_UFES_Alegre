@@ -39,8 +39,8 @@ Vide [documentação oficial de MicroPython para ESP32](https://docs.micropython
 Apagando flash, ligar pressionando o 3o botão (C) para entrar em modo 'flash' :  
 `$ pip install esptool`  
 `$ esptool.py -p /dev/ttyUSB0 -b 115200 --chip esp32 erase_flash`  
-Instalando firmware [MicroPython v1.23 ou mais recente, oficial](https://micropython.org/download/M5STACK_ATOM/), para M5StickC, que não tem PSRAM :  
-`$ esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash --flash_mode dio -z 0x1000 esp32-idf3-20191220-v1.12.bin`  
+Instalando firmware [MicroPython v1.23 ou mais recente), oficial](https://micropython.org/download/M5STACK_ATOM/), para para M5Stack Atom (próximo do M5Stick C, que não tem PSRAM :  
+`$ esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash --flash_mode dio -z 0x1000 M5STACK_ATOM-20240602-v1.23.0.bin`  
 
 
 ### 1.2 Testes e exemplos :
